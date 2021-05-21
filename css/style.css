@@ -68,12 +68,21 @@ img:hover {
         .box, .navbar {   
           flex-direction: column;
           flex: 100%;
+          
         }}
         .navbar a:hover {
             background-color: rgb(231, 0, 0);
           }
     .inf{
        text-align: left;
+    }      
+    span{
+        font-weight: bold;
+        text-align: left;
+        
+    }
+
+  
     }      
     span{
         font-weight: bold;
