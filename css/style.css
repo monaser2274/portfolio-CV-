@@ -68,7 +68,7 @@ img:hover {
         .box, .navbar {   
           flex-direction: column;
           flex: 100%;
-          
+          justify-content: center;
         }}
         .navbar a:hover {
             background-color: rgb(231, 0, 0);
