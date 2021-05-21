@@ -47,9 +47,14 @@ img:hover {
   
 
     .navbar{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: center;
         width: 100%;
         margin: 0px;
         padding: 20px;
+        
         
     }
     .navbar a {
@@ -75,5 +80,7 @@ img:hover {
         text-align: left;
         
     }
+
+  
 
   
